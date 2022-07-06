@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/InstaDownloader/app/src/main/res/drawable/progress_drawable_blue.xml" value="0.1" />
+        <entry key="..\:/InstaDownloader/app/src/main/res/drawable/splash_back_ground.xml" value="0.1" />
+        <entry key="..\:/InstaDownloader/app/src/main/res/layout/activity_lanch2.xml" value="0.1" />
+        <entry key="..\:/InstaDownloader/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/InstaDownloader/app/src/main/res/layout/activity_main12.xml" value="0.1" />
+        <entry key="..\:/InstaDownloader/app/src/main/res/layout/content_lanch.xml" value="0.1" />
+        <entry key="..\:/InstaDownloader/app/src/main/res/layout/my_custom_notification.xml" value="0.1" />
+        <entry key="..\:/InstaDownloader/app/src/main/res/layout/service_start_notification.xml" value="0.1" />
+        <entry key="..\:/MyWorkSpace/SourcesMine/instaDownload/app/src/main/res/layout/activity_main.xml" value="0.16621376811594202" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

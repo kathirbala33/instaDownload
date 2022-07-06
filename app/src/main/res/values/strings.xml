@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">InstaDownloader</string>
+    <string name="downloading">Downloading</string>
+    <string name="ok">OK</string>
+    <string name="download_folder_path">/InstanceDownload/</string>
+    <string name="play_more_app">https://play.google.com/store/apps/</string>
+
+    <string name="loading">Loading....</string>
+    <string name="no_data_found">No data found</string>
+    <string name="not_support">Not Supported</string>
+    <string name="service_start">Download service start</string>
+    <string name="copy_share_link">Click copy and share link</string>
+    <string name="stop">Stop</string>
+    <string name="service_off">Download Service off</string>
+    <string name="service_on">Download Service on</string>
+    <string name="title_activity_lanch">LanchActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+</resources>
